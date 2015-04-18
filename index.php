@@ -1,8 +1,6 @@
 <html>
 <head>
-    <script src="JS/jquery-2.1.3.min.js"></script>
-    <link rel="stylesheet" href="CSS/materialize.min.css"/>
-    <link rel="stylesheet" href="CSS/main.css"/>
+    <?php include('headHTML.php'); ?>
     
 </head>
 <body class="grey lighten-5">

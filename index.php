@@ -11,7 +11,8 @@
              <?php include('navigation-dropdown-internet.php');
             include('navigation-dropdown-hosting.php');
             include('navigation-dropdown-members.php'); 
-            include('navigation-main.php'); ?>
+            include('navigation-main.php'); 
+            include('navigation-slideOutMenu.php');?>
              
             
      </div>

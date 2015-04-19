@@ -19,7 +19,7 @@
         <img src="http://lorempixel.com/580/250/nature/3"> <!-- random image -->
         <div class="caption right-align">
           <h3>Web Hosting</h3>
-          <h5 class="light grey-text text-lighten-2">At Summit Internet we have a range of contract free hosting services to help you or your business get up and running on the internet in no time</h5>
+          <h5 class="light grey-text text-lighten-2">At Summit Internet we have a range of contract free hosting services to help you or your business get up and running on the internet in no time <br> Check out our services!</h5><a href="#webHostScrollPoint" class="waves-effect waves-light btn-large red darken-4"><i class="mdi-file-cloud left"></i>Web Hosting</a>
         </div>
       </li>
       <li>

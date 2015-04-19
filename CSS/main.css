@@ -10742,5 +10742,22 @@ nav .brand-logo img {
 }
 
 .internetCard {
-  height: 300px;
+  height: auto;
+  padding: 15px;
+}
+
+table {
+  border: 1px solid rgba(66, 66, 66, 0.25);
+}
+
+.nbnTitle {
+  font-size: 24px;
+}
+
+.nbnSubHeading {
+  font-size: 20px;
+}
+
+.nbnDivision {
+  background-color: rgba(162, 8, 14, 0.75);
 }

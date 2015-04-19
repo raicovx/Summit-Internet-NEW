@@ -8,8 +8,11 @@ $(document).ready(function(){
      $(".button-collapse").sideNav();
     $('ul.tabs').tabs();
      $('.slider').slider({full_width: true});
+    
     $('.fullScreen').on('click', function(){
         if(isFullScreen){
+            sliderCont.css('height','');
+            $('.welcomeArea').css("marginTop", "");
          fullScreenButtn.css('top', '340px');
             indic.animate({top:'340px'}, 1000, function(){
              sliderCont.animate({height:"400px"}, 1000);
@@ -22,6 +25,7 @@ $(document).ready(function(){
           sliderCont.toggleClass('fullscreen'); 
         isFullScreen = true;
             fullScreenButtn.css('top', '750px');
+            $('.welcomeArea').animate({marginTop: '50%'}, 1050);
             indic.animate({top:'750px'},1000);
         }
          

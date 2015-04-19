@@ -10698,3 +10698,21 @@ nav .brand-logo img {
 .dropdown-content li:hover, .dropdown-content li.active {
   background: #37474f;
 }
+
+.fullScreen {
+  position: absolute;
+  z-index: 999;
+  right: 5%;
+  top: 340px;
+  font-size: 35px;
+  color: #FFF;
+  transition: top 1s;
+}
+
+.slider, .slider .slides img, .slides {
+  transition: height 1s;
+}
+
+.slider .indicators .indicator-item.active {
+  background-color: #a2080e;
+}

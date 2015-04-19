@@ -18,7 +18,12 @@
      </div>
     </nav>
     </div>   
-
+    <div class="row">
+        <div class="col s12 m8 l12 center" style="padding:0;">
+            <?php include('content-slider.php'); ?>
+        </div>
+    
+    </div>
 <script src="JS/materialize.min.js"></script>
     <script src="JS/main.js"></script>
 </body>

@@ -1,4 +1,4 @@
- <div class="slider">
+ <div class="slider blue-grey darken-4">
      <a class="fullScreen" href="#"><i class="mdi-navigation-unfold-more"></i></a>
     <ul class="slides">
      <li>

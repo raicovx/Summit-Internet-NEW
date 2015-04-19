@@ -3,7 +3,7 @@
     <?php include('headHTML.php'); ?>
     
 </head>
-<body class="grey lighten-5">
+<body class="grey lighten-2">
     <div class="navbar-fixed">
     <nav>
         <div class="nav-wrapper">
@@ -24,9 +24,10 @@
         </div>
     
     </div>
-    <div class="row">
-        
-    </div>
+    
+    <?php 
+    include('content-welcome-area.php');
+    include('content-internet-section.php'); ?>
 <script src="JS/materialize.min.js"></script>
     <script src="JS/main.js"></script>
 </body>

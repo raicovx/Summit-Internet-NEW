@@ -15,7 +15,7 @@
 }
 .slider .indicators{
     z-index:99;
-    transition: top 1s;
+    transition: top 1s, bottom 1s;
     bottom: 10px;
 }
 .slider .indicators .indicator-item.active{

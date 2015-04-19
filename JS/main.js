@@ -6,6 +6,7 @@ $(document).ready(function(){
         indic.css('bottom', '');
     $(".dropdown-button").dropdown(); 
      $(".button-collapse").sideNav();
+    $('ul.tabs').tabs();
      $('.slider').slider({full_width: true});
     $('.fullScreen').on('click', function(){
         if(isFullScreen){

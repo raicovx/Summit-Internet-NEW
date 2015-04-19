@@ -1,4 +1,5 @@
 /*----- Drop Downs ------*/
+/*------Welcome Area ----*/
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 /**
  * 1. Set default font family to sans-serif.
@@ -10719,10 +10720,27 @@ nav .brand-logo img {
 
 .slider .indicators {
   z-index: 99;
-  transition: top 1s;
+  transition: top 1s, bottom 1s;
   bottom: 10px;
 }
 
 .slider .indicators .indicator-item.active {
   background-color: #a2080e;
+}
+
+.welcomeText {
+  font-size: 19px;
+  line-height: 24px;
+}
+
+.welcomeArea .card {
+  height: 400px;
+}
+
+.logoCard {
+  background: #a2080e;
+}
+
+.internetCard {
+  height: 300px;
 }

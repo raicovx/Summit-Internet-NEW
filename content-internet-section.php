@@ -278,7 +278,37 @@ To use VoIP you’ll need a broadband connection and a VoIP enabled modem or rou
                                     <td>$55.00</td>                                    
                                   </tr>
                             </tbody>
-                  </table></div>
+                  </table>
+         <table class="hoverable centered">
+                            <thead class="blue-grey darken-4 white-text">
+                                  <tr>
+                                      <th data-field="miscCosts">Terms &amp; Conditions</th>
+                                     
+                                  </tr>
+                            </thead>
+
+                            <tbody>
+                                  <tr>
+                                    <td><i class="mdi-alert-error"></i> Summit Internet reserves the right to limit / cancel / suspend any residential VOIP plan being utilized as a business service.</td>
+                                  </tr>
+                                  <tr>
+                                       <tr>
+                                    <td><i class="mdi-alert-error"></i> Due to the complexity porting of numbers has a minimum timeframe of 28+ working days.  Extra costs are involved in porting</td>
+                                  </tr>
+                                  <tr>
+                                    <td><i class="mdi-alert-error"></i> Billing increments are per second.</td>
+                                </tr>
+                            </tbody>
+                  </table><br/>
+            <p class="center-align"><b>Fair Use Terms / Policy</b></p>
+            <p class="left-align"><br/>
+                This policy is documented to advise the fairness of use for using the VOIP plans and specifically relates to the usage of uncharged calls. If use of the VOIP plan is excessive or unreasonable we will notify you of the service details and the end user for immediate transfer to an appropriate plan.<br/> If notification has been made for excessive or unreasonable use Summit Internet reserve the right to limit, cancel or suspend the service if notification has not been passed on to the end user. We may assess abnormal usage based on comparisons to the usage patterns and levels of our other customers.<br/> *Unlimited calling and other services for all residential plans are based on normal residential use by single-family household members. Small Business Plus plan is intended solely for normal commercial use by small businesses and home offices. Combinations of factors are used to determine excessive use, including but not limited to: the number of unique numbers called, international calls forwarded, minutes used and other factors. </p>
+    <ul>        
+            <li><i class="mdi-alert-error"></i> using a device that re routes calls to/from the VOIP service to another VoIP network;</li>
+<li><i class="mdi-alert-error"></i> using the service in bridging of conference calls</li>
+<li><i class="mdi-alert-error"></i> using the VOIP for any other purpose than the primary function of person-to-person voice communication.</li>
+<li><i class="mdi-alert-error"></i> Summit Internet reserves the right to change this Policy at any time.</li>
+        </ul></div>
      </div>  
     
   </div>

@@ -187,23 +187,98 @@ ADSL (Asymmetric Digital Subscriber Line) is a growing technology that utilises 
                                     <td>$6.60/GB</td>                                    
                                   </tr>
                             </tbody>
-                  </table>
-            Only dynamic IP’s available
-Where a DSL2 plan cannot be provisioned, a DSL1 8MB plan or 1500 plan will be provisioned and is provided as an ADSL service.
-The DSL2 plan speeds are provided as Internet Grade “Best Efforts” services and are shown in downstream/upstream format and speeds are theoretical network maximum speeds.
-Actual speeds may be less due to a number of factors including network configuration, line quality and length, exchange type, customer premises interference, traffic and equipment.
-DSL2 Services are Spectrum Shared and currently available through 1,403 enabled Telstra Exchanges.The DSl2 services are subject to the standard ADSL services supplied by Summit Internet.
-Speed of service is reduced to 72 kbps once the Monthly Allowance is reached and is reduced in both directions.
-Data usage is counted on download only. Shaping is calculated from the user’s anniversary date.
+                  </table><br>
+            Only dynamic IP Addresses available. <br>
+Where a DSL2 plan cannot be provisioned, a DSL1 8MB plan or 1500 plan will be provisioned and is provided as an ADSL service. The ADSL2 plan speeds are provided as Internet Grade "Best Efforts" services and are shown in downstream/upstream format and speeds are theoretical network maximum speeds.<br><br>
+Actual speeds may be less due to a number of factors including network configuration, line quality and length, exchange type, customer premises interference, traffic and equipment.<br>
+DSL2 Services are Spectrum Shared and currently available through 1,403 enabled Telstra Exchanges.The DSL2 services are subject to the standard ADSL services supplied by Summit Internet.<br><br>
+Speed of service is reduced to 72 kbps once the Monthly Allowance is reached and is reduced in both directions.<br><br>
+Data usage is counted on download only. Shaping is calculated from the user's anniversary date.<br><br>
 All ADSL plans are provisioned with a Dynamic IP Address unless otherwise requested.
 Please be aware an ADSL2+ modem &amp; filter must be used with the Open2 services.
-All plans are subject to our ADSL Acceptable Usage Policy
-Modem / Router Selection
+All plans are subject to our ADSL Acceptable Usage Policy<br><br>
+            <b>Modem / Router Selection</b><br>
 You will require an ADSL2+ Modem/Router to connect to the DSL service. Some choices for hardware are below.
+           <table class="hoverable centered">
+                            <thead class="blue-grey darken-4 white-text">
+                                  <tr>
+                                      <th data-field="miscCosts">Modem</th>
+                                      <th>Ports</th>
+                                      <th data-field="Price">Price</th>
+                                  </tr>
+                            </thead>
+
+                            <tbody>
+                                  <tr>
+                                    <td>ADSL Modem/Router</td>
+                                    <td>4 x Ports</td>
+                                    <td>$99.00</td>
+                                  </tr>
+                                  <tr>
+                                       <tr>
+                                    <td>Wireless/Ethernet ADSL Modem/Router</td>
+                                        <td>4 x Ports</td>
+                                    <td>$150.00</td>
+                                  </tr>
+                                  <tr>
+                                    <td>VoIP Wireless/Ethernet Modem/Router</td>
+                                      <td>4 x Ports</td>
+                                    <td>$199</td>                                   
+                                  </tr>
+                                  <tr>
+                                    <td>ADSL Line Central Splitter</td>
+                                    <td></td>
+                                    <td>$25</td>                                    
+                                  </tr>
+                            </tbody>
+                  </table>
         </div>
      </div>
     <div id="voip" class="col s12 m12 l10 offset-l1">
-        <div class="internetCard card">VOIP</div>
+        <div class="internetCard card">
+        Summit Internet can offer VoIP Services at competitive rates. But before you start looking at pricing lets start with what is Voip.
+VoIP is just a fancy acronym.<br><br> The letters in VoIP stand for Voice-over-Internet Protocol.<br>
+In a nutshell, VoIP allows you to make phone calls over the Internet. You still use your telephone the same as before, but instead of plugging your phone into the socket on your wall, you plug it into the back of your modem or router (the box thing that connects your computer to the internet) instead. For most people, using VoIP means much cheaper call rates.<br><br>
+To use VoIP you’ll need a broadband connection and a VoIP enabled modem or router. Call costs and charges are listed below (inc GST).  This is our only standard account.   We can however create an account for you personally if this does not suit.
+          <table class="hoverable centered">
+                            <thead class="blue-grey darken-4 white-text">
+                                  <tr>
+                                      <th data-field="miscCosts">VoIP Standard Plan</th>
+                                      <th data-field="Price">Cost</th>
+                                  </tr>
+                            </thead>
+
+                            <tbody>
+                                  <tr>
+                                    <td>Local call cost(Untimed)</td>
+                                    <td>$0.18</td>
+                                  </tr>
+                                  <tr>
+                                       <tr>
+                                    <td>National call cost(Untimed)</td>
+                                    <td>$0.18</td>
+                                  </tr>
+                                  <tr>
+                                    <td>Mobiles Calls Cost per Minute</td>
+                                      <td>First Minute: $0.18<br> Each Following Minute: $0.16</td>
+                                  <tr>
+                                    <td>International Call Cost</td>
+                                    <td>Available on request</td>                                    
+                                  </tr>
+                                 <tr>
+                                    <td>International Mobile Call Cost</td>
+                                    <td>Available on request</td>                                    
+                                  </tr>
+                                  <tr>
+                                    <td>Plan Cost per Month</td>
+                                    <td>$17.60</td>                                    
+                                  </tr>
+                                  <tr>
+                                    <td>One-off Set up fee</td>
+                                    <td>$55.00</td>                                    
+                                  </tr>
+                            </tbody>
+                  </table></div>
      </div>  
     
   </div>

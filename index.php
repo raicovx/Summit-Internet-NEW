@@ -1,5 +1,6 @@
 <html>
 <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <?php include('headHTML.php'); ?>
     
 </head>
@@ -27,7 +28,8 @@
     
     <?php 
     include('content-welcome-area.php');
-    include('content-internet-section.php'); ?>
+    include('content-internet-section.php');
+    include('content-hosting-section.php')?>
 <script src="JS/materialize.min.js"></script>
     <script src="JS/main.js"></script>
 </body>

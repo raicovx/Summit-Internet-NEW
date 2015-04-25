@@ -1,9 +1,9 @@
  <div id="intSection" class="row scrollspy">
     <div class="col s12 m12 l10 offset-l1">
       <ul class="tabs">
-        <li class="tab col s4"><a class="active" href="#nbn">NBN Plans</a></li>
-        <li class="tab col s4"><a href="#adsl2">ADSL 2+</a></li>
-        <li class="tab col s4"><a href="#voip">VOIP</a></li>
+        <li class="tab col s4 waves-effect waves-light"><a class="active" href="#nbn">NBN Plans</a></li>
+        <li class="tab col s4 waves-effect waves-light"><a href="#adsl2">ADSL 2+</a></li>
+        <li class="tab col s4 waves-effect waves-light"><a href="#voip">VOIP</a></li>
       </ul>
     </div>
     <div id="nbn" class="col s12 m12 l10 offset-l1">

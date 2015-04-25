@@ -10778,3 +10778,33 @@ blockquote {
 #webHosting h5, #webHosting h3, #webHosting blockquote {
   margin-left: 4%;
 }
+
+#email h5, #email h3, #email blockquote {
+  margin-left: 4%;
+}
+
+.spamDocBtn {
+  margin: 30px 0 15px 0;
+}
+
+th {
+  border-radius: 0;
+}
+
+.tabs {
+  background-color: #a2080e;
+  height: 55px;
+}
+
+.tabs .tab a {
+  color: white;
+}
+.tabs .tab a:hover {
+  color: white !important;
+  height: 54px;
+}
+
+.tabs .indicator {
+  background-color: white;
+  height: 4px !important;
+}

@@ -40,5 +40,17 @@ $(document).ready(function(){
                 $('ul.tabs').tabs('select_tab', 'voip');   
             };
     });
+    $('#dropdown2 li a').on('click', function(){
+            var thisClick = $(this).html();
+            if(thisClick == 'Web Hosting'){
+                $('ul.tabs').tabs('select_tab', 'webHosting');
+            }else if(thisClick == 'E-Mail'){
+                $('ul.tabs').tabs('select_tab', 'email');
+            }if (thisClick == 'Domain Names'){
+                $('ul.tabs').tabs('select_tab', 'domains');   
+            }if(thisClick == 'Spam Filtering'){
+                  $('ul.tabs').tabs('select_tab', 'spamFilter');  
+            };
+    });
     $('.scrollspy').scrollSpy();
 });

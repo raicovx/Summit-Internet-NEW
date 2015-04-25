@@ -1,0 +1,20 @@
+th{
+  border-radius:0;   
+}
+.tabs{
+    background-color:$primary-color; 
+    height:55px;
+}
+
+.tabs .tab{
+    a{color:$secondary-color;}
+    a:hover{
+     color:#FFF!important;
+        height:54px;
+      }
+}
+
+.tabs .indicator{
+    background-color:$secondary-color;
+    height:4px!important;
+ }

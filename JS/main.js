@@ -30,4 +30,15 @@ $(document).ready(function(){
         }
          
     });
+    $('#dropdown1 li a').on('click', function(){
+            var thisClick = $(this).html();
+            if(thisClick == 'NBN Plans'){
+                $('ul.tabs').tabs('select_tab', 'nbn');
+            }else if(thisClick == 'ADSL 2+'){
+                $('ul.tabs').tabs('select_tab', 'adsl2');
+            }if (thisClick == 'VOIP'){
+                $('ul.tabs').tabs('select_tab', 'voip');   
+            };
+    });
+    $('.scrollspy').scrollSpy();
 });

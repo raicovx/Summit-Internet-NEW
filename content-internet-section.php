@@ -1,4 +1,4 @@
- <div class="row">
+ <div id="intSection" class="row scrollspy">
     <div class="col s12 m12 l10 offset-l1">
       <ul class="tabs">
         <li class="tab col s4"><a class="active" href="#nbn">NBN Plans</a></li>
@@ -301,9 +301,10 @@ To use VoIP you’ll need a broadband connection and a VoIP enabled modem or rou
                             </tbody>
                   </table><br/>
             <p class="center-align"><b>Fair Use Terms / Policy</b></p>
-            <p class="left-align"><br/>
-                This policy is documented to advise the fairness of use for using the VOIP plans and specifically relates to the usage of uncharged calls. If use of the VOIP plan is excessive or unreasonable we will notify you of the service details and the end user for immediate transfer to an appropriate plan.<br/> If notification has been made for excessive or unreasonable use Summit Internet reserve the right to limit, cancel or suspend the service if notification has not been passed on to the end user. We may assess abnormal usage based on comparisons to the usage patterns and levels of our other customers.<br/> *Unlimited calling and other services for all residential plans are based on normal residential use by single-family household members. Small Business Plus plan is intended solely for normal commercial use by small businesses and home offices. Combinations of factors are used to determine excessive use, including but not limited to: the number of unique numbers called, international calls forwarded, minutes used and other factors. </p>
-    <ul>        
+            <p class=" col s12 m8 l6 left-align"><br/>
+                This policy is documented to advise the fairness of use for using the VOIP plans and specifically relates to the usage of uncharged calls. If use of the VOIP plan is excessive or unreasonable we will notify you of the service details and quote the end user for immediate transfer to an appropriate plan.<br/><br/> If notification has been made for excessive or unreasonable use Summit Internet reserve the right to limit, cancel or suspend the service if notification has not been passed on to or actioned by the end user. We may assess abnormal usage based on comparisons to the usage patterns and levels of our other customers.<br/><br/> *Unlimited calling and other services for all residential plans are based on normal residential use by single-family household members. Small Business Plus plan is intended solely for normal commercial use by small businesses and home offices. Combinations of factors are used to determine excessive use, including but not limited to: the number of unique numbers called, international calls forwarded, minutes used and other factors. </p>
+    <ul class="col s12 m4 l6">  
+                <li><h5>Uses of the service considered to be unreasonable include:</h5></li>
             <li><i class="mdi-alert-error"></i> using a device that re routes calls to/from the VOIP service to another VoIP network;</li>
 <li><i class="mdi-alert-error"></i> using the service in bridging of conference calls</li>
 <li><i class="mdi-alert-error"></i> using the VOIP for any other purpose than the primary function of person-to-person voice communication.</li>

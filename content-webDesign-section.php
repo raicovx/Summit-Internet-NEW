@@ -3,6 +3,7 @@
         <h4>Web  Design</h4>
         Summit Internet offers a comprehensive web-design service, developing and maintaining internet sites for a range of purposes.
         <br>
+         <div class="divider"></div>
         <h5>Corporate Websites</h5>
         <p>serve as both a centre of information for existing clients, and a source for generating new clients. At Summit, we offer an excellent web-design service to launch your business onto the worldwide web. A design consultant will liaise personally with you to create a modern web-site that projects a professional image of your company.</p>
         <p>Web-sites are an ideal medium to promote your products and services, due to the multimedia capabilities of the internet. The growth of the internet over the past few years (particularly in Australia) has opened up a prosperous new market and businesses worldwide are discovering the benefits of being on-line.</p>

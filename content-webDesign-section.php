@@ -20,12 +20,21 @@
     
         <div class="col l4">
     <h5>Personal Websites</h5>
-    <p>Personal websites create average people the opportunity to create an interesting project and reach a worldwide audience. You can include information on yourself, your family, your interests – anything you like.</p>
-    <p>Despite common belief, web-sites are not strictly for commercial use – many people enjoy having their own homepage, as a fulfilling hobby and side-interest</p>
+    <p>Personal websites create average people the opportunity to create an interesting project and reach a worldwide audience. You can include information on yourself, your family, your interests - anything you like.</p>
+    <p>Despite common belief, web-sites are not strictly for commercial use - many people enjoy having their own homepage, as a fulfilling hobby and side-interest</p>
     </div>
     
         <div class="col l4">
     <h5>Association Websites</h5>
-    <p>an excellent information centre for community organisations – schools, fan clubs, support/protest groups and others. By developing a web-site for your organisation, you can reach a far greater audience and provide your members with a valuable service.</p>
-    <p>School’s can use their internet sites as a source of information for students and parents. The site may include a variety of resources, for example:</p>
+    <p>an excellent information centre for community organisations - schools, fan clubs, support/protest groups and others. By developing a web-site for your organisation, you can reach a far greater audience and provide your members with a valuable service.</p>
+    <p>School's can use their internet sites as a source of information for students and parents. The site may include a variety of resources, for example:</p>
+    <blockquote>
+    	Events calendar<br>
+ Exam timetables<br>
+ Course details<br>
+Support materials for students
+    </blockquote>
+   <p> We will develop your site using the latest tools, ensuring that you get the most out of your web-site. To make your site as interesting as possible, we can incorporate graphics, feedback forms, links and more - all laid out professionally and accurately.</p>
+<p>Due to the varying difficulty of designing web-sites, the cost of the web-design service will be different for every project. For an obligation-free quote, please email us with your requirements, and one of our consultants will contact you within 24 hours.</p>
+
 </div></div>

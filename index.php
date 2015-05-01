@@ -31,6 +31,7 @@
     include('content-internet-section.php');
     include('content-hosting-section.php');
     include('content-webDesign-section.php');
+    include('content-Support-section.php');
     ?>
 <script src="JS/materialize.min.js"></script>
     <script src="JS/main.js"></script>

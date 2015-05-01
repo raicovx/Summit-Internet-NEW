@@ -10787,6 +10787,10 @@ blockquote {
   margin: 30px 0 15px 0;
 }
 
+.supportCard {
+  padding: 15px 15px;
+}
+
 th {
   border-radius: 0;
 }

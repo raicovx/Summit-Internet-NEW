@@ -66,6 +66,8 @@
                             </tbody>
                   </table>
             <h3>Plan Details</h3>
+            <div class="row">
+            <div class="col l4">
             <h5>Business Lite</h5>
                 <blockquote>
                     <ul>
@@ -78,6 +80,8 @@
                     <li><i class="mdi-content-add-box"></i> Includes private CGI-bin for CGI/Perl scripts to include interactive functionality such as online forms, counters and message boards.</li>
                         </ul>
                 </blockquote>
+                
+               
          <h5>Business Basic</h5>
                 <blockquote>
                     <ul>
@@ -90,6 +94,8 @@
                     <li><i class="mdi-content-add-box"></i> Includes private CGI-bin for CGI/Perl scripts to include interactive functionality such as online forms, counters and message boards.</li>
                         </ul>
                 </blockquote>
+                </div>
+                <div class="col l4">
          <h5>Business Standard</h5>
                 <blockquote>
                     <ul>
@@ -103,6 +109,8 @@
                     <li><i class="mdi-content-add-box"></i> Includes unlimited email aliases for your hosted domain e.g. sales@domain.com.au</li>
                         </ul>
                 </blockquote>
+                </div>
+                <div class="col l4">
          <h5>Business Plus</h5>
                 <blockquote>
                     <ul>
@@ -120,7 +128,11 @@
                         <li><i class="mdi-content-add-box"></i>PHP and SHTML Support</li>
                         </ul>
                 </blockquote>
-        <h4 class="center">Please Note:</h4><h5 class="center"> The data is counted when a user clicks on a link to your web site to view its content.</h5>
+                </div>
+                </div>
+               <div class="row">
+        <div class="col s8 offset-s2 card-panel red darken-2"><h4 class="center white-text">Please Note:</h4><h5 class="center white-text"> The data is counted when a user clicks on a link to your web site to view its content</h5></div>
+        </div>
         </div>     
     </div>
     <div id="email" class="col s12 m12 l10 offset-l1">

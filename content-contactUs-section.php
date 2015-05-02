@@ -1,9 +1,9 @@
 <div class="row">
 	<div class="card col s12 m12 l10 offset-l1" style="padding:0;">
-		<h2 class="center"> Contact Us</h2>
+		<h2 id="contactUsSection" class="center scrollspy"> Contact Us</h2>
 		<div class="sales Info col s12 l6 card-panel red darken-2 white-text">	
 			<h3 class="center">Sales</h3>
-				<h5 class="thin center">Phone: 0403046464</h5><br>
+				<h5 class="thin center">Phone: <a href="tel:0403046464">0403046464</a></h5><br>
 				<h5 class="thin center">Email: sales@summit.net.au	</h5>
 		</div>
 		<div class="address Info col s12 l6 card-panel blue-grey darken-4 white-text">	
@@ -14,7 +14,7 @@ LONDONDERRY 2753</h5>
 		<div class="sales Info col s12 l6 card-panel red darken-2 white-text">	
 			<h3 class="center">Accounts</h3>
 				<h5 class="thin center">Weekdays - 9am to 5pm<br>
-				Phone: 0403046464<br>Email: payments@summit.net.au</h5>
+				Phone:<a href="tel:0403046464">0403046464</a><br>Email: payments@summit.net.au</h5>
 		</div>
 		<div class="address Info col s12 l6 card-panel blue-grey darken-4 white-text">	
 			<h3 class="center">Other Info</h3><br>
@@ -32,7 +32,7 @@ Careers: careers@summit.net.au<br>
 		<div class="address Info col s12 l6 card-panel blue-grey darken-4 white-text">	
 			<h3 class="center">Technical Support</h3>
 				<h5 class="thin center"> Anytime<br>
-<a rel="tel">0403046464</a><br>
+<a href="tel:0403046464">0403046464</a><br>
 Email: support@summit.net.au<br>
 
 </h5>

@@ -49,7 +49,7 @@
             <div class="nbnDivision divider col s12 m10 offset-m1 l10 offset-l1"></div>
             <br>
             <h4 class='nbnSubHeading'> Download:25Mbps/Upload:5Mbps</h4>
-            <table class="hoverable centered">
+            <table class="hoverable centered responsive-table">
                             <thead class="blue-grey darken-4 white-text">
                                   <tr>
                                       <th data-field="Plan">Plan</th>

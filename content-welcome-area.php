@@ -1,6 +1,6 @@
 <div id="welcomeArea" class="row welcomeArea">
         
-        <div class="logoCard card col s0 m4 l3 offset-l1 center valign-wrapper">
+        <div class="logoCard card col s12 m4 l3 offset-l1 center valign-wrapper">
                <img class="valign col s12 m12 l10" src="Images/logotransp.png">
         </div>
         <div class="card col s12 m8 l7 center">

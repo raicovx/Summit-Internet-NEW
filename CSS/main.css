@@ -10788,7 +10788,25 @@ blockquote {
 }
 
 .supportCard {
+  padding: 0 !important;
+}
+.supportCard h3, .supportCard p {
   padding: 15px 15px;
+}
+.supportCard .collapsible {
+  color: #FFF;
+}
+.supportCard .collapsible-header {
+  background-color: #263238 !important;
+  width: 105%;
+  margin-left: -10px;
+}
+.supportCard .collapsible-body {
+  color: #000;
+}
+
+.Info {
+  height: 225px;
 }
 
 th {

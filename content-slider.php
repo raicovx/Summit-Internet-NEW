@@ -1,3 +1,4 @@
+ <div class="col s12 m12 l12 center" style="padding:0;">
  <div id="slider" class="slider blue-grey darken-4">
      <a class="fullScreen" href="#"><i class="mdi-navigation-unfold-more"></i></a>
     <ul class="slides">
@@ -31,4 +32,5 @@
       </li>
     </ul>
      
+  </div>
   </div>

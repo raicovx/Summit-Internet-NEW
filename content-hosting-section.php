@@ -131,7 +131,7 @@
                 </div>
                 </div>
                <div class="row">
-        <div class="col s8 offset-s2 card-panel red darken-2"><h4 class="center white-text">Please Note:</h4><h5 class="center white-text"> The data is counted when a user clicks on a link to your web site to view its content</h5></div>
+        <div class="col s12 l8 offset-l2 card-panel red darken-2"><h4 class="center white-text">Please Note:</h4><h5 class="center white-text"> The data is counted when a user clicks on a link to your web site to view its content</h5></div>
         </div>
         </div>     
     </div>

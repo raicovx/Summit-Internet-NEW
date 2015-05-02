@@ -20,10 +20,8 @@
     </nav>
     </div>   
     <div class="row">
-        <div class="col s12 m8 l12 center" style="padding:0;">
-            <?php include('content-slider.php'); ?>
-        </div>
-    
+              <?php include('content-slider.php'); ?>
+         
     </div>
     
     <?php 
@@ -32,6 +30,7 @@
     include('content-hosting-section.php');
     include('content-webDesign-section.php');
     include('content-Support-section.php');
+    include('content-contactUs-section.php');
     ?>
 <script src="JS/materialize.min.js"></script>
     <script src="JS/main.js"></script>

@@ -3,31 +3,31 @@
      <a class="fullScreen" href="#"><i class="mdi-navigation-unfold-more"></i></a>
     <ul class="slides">
      <li>
-        <img src="http://lorempixel.com/580/250/nature/1"> <!-- random image -->
+        <img src="Images/board-564808_1920.jpg">
         <div class="caption left-align">
-          <h3>Welcome to Summit</h3>
+          <h3>Welcome to <img class="sliderLogo" src="Images/logotransp.png"/></h3>
           <h5 class="light grey-text text-lighten-2">We are an Internet Service Provider dedicated to providing you with high speed, professional services at competitive rates. <br/>We cater to any requirements, personal or business big or small.</h5>
         </div>
       </li>
       <li>
-        <img src="http://lorempixel.com/580/250/nature/2"> <!-- random image -->
-        <div class="caption center-align">
+        <img src="Images/tree-200795_1920.jpg"> 
+        <div class="caption left-align white-text">
           <h3>NBN Plans</h3>
-          <h5 class="light grey-text text-lighten-2">Keen to get your hands on the NBN?<br/> See our plans here!</h5>
+          <h5 class="light">Keen to get your hands on the NBN?<br/> See our plans here!</h5>
         </div>
       </li>
       <li>
-        <img src="Images/work-731198_1280.jpg"> <!-- random image -->
+        <img src="Images/binary-715791_1920.jpg">
         <div class="caption right-align">
           <h3>Web Hosting</h3>
-          <h5 class="light grey-text text-lighten-2">At Summit Internet we have a range of contract free hosting services to help you or your business get up and running on the internet in no time <br> Check out our services!</h5><a href="#webHostScrollPoint" class="waves-effect waves-light btn-large red darken-4"><i class="mdi-file-cloud left"></i>Web Hosting</a>
+          <h5 class="white-text light text-lighten-2">At Summit Internet we have a range of contract free hosting services to help you or your business get up and running on the internet in no time <br> Check out our services!</h5><a href="#webHostScrollPoint" class="waves-effect waves-light btn-large red darken-4"><i class="mdi-file-cloud left"></i>Web Hosting</a>
         </div>
       </li>
       <li>
-        <img src="Images/laptop-240192_1280.jpg"> <!-- random image -->
+        <img src="Images/laptop-240192_1280.jpg"> 
         <div class="caption center-align">
           <h3>IT Support</h3>
-          <h5 class="light grey-text text-lighten-2">Summit can provide IT support onsite or remotely, including but not limited to hardware sales, software &amp; application support, staff training and server maintenance.</h5>
+          <h5 class="white-text light">Summit can provide IT support onsite or remotely, including but not limited to hardware sales, software &amp; application support, staff training and server maintenance.</h5>
         </div>
       </li>
     </ul>

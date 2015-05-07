@@ -19,12 +19,20 @@ $(document).ready(function(){
             });
             sliderCont.toggleClass('fullscreen'); 
         isFullScreen = false;
+            $('html, body').css({
+    'overflow': 'auto',
+    'height': 'auto'
+});
         }else{
            sliderCont.css('height',''); 
             indic.css('top','');
           sliderCont.toggleClass('fullscreen'); 
         isFullScreen = true;
-            fullScreenButtn.css('top', '750px');
+            $('html, body').css({
+    'overflow': 'hidden',
+    'height': '100%'
+                });
+            fullScreenButtn.css('top', '75%');
             $('.welcomeArea').animate({marginTop: '50%'}, 1050);
             indic.animate({top:'750px'},1000);
         }

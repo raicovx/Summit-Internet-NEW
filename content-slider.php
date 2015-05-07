@@ -10,14 +10,14 @@
         </div>
       </li>
       <li>
-        <img src="Images/tree-200795_1920.jpg"> 
+        <img src="Images/binary-715791_1920.jpg"> 
         <div class="caption left-align white-text">
           <h3>NBN Plans</h3>
           <h5 class="light">Keen to get your hands on the NBN?<br/> See our plans here!</h5>
         </div>
       </li>
       <li>
-        <img src="Images/binary-715791_1920.jpg">
+        <img src="Images/hard-drive-656128_1280.jpg">
         <div class="caption right-align">
           <h3>Web Hosting</h3>
           <h5 class="white-text light text-lighten-2">At Summit Internet we have a range of contract free hosting services to help you or your business get up and running on the internet in no time <br> Check out our services!</h5><a href="#webHostScrollPoint" class="waves-effect waves-light btn-large red darken-4"><i class="mdi-file-cloud left"></i>Web Hosting</a>

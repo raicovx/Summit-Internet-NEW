@@ -18,7 +18,6 @@
 </head>
 
 
-
 <body>
 
 <div id="mainWrapper">
@@ -118,7 +117,7 @@
      	  ?>
         <article class="productInfo"><!-- Each individual product description -->
 
-          <div><img alt="sample" src="200x200.png"></div>
+          <div><img alt="sample" src="Images/200x200.png"></div>
 
           <p class="price"><?php echo $prices1[$i]; ?></p>
 
@@ -132,87 +131,52 @@
 
       </div>
 
-      <div class="productRow"> 
-
-        <!-- Each product row contains info of 3 elements -->
-
-        <article class="productInfo"> <!-- Each individual product description -->
-
-          <div><img alt="sample" src="200x200.png"></div>
-
-          <p class="price">$50</p>
-
-          <p class="productContent">Content holder</p>
-
-          <input type="button" name="button" value="Buy" class="buyButton">
-
-        </article>
-
-        <article class="productInfo"> <!-- Each individual product description -->
-
-          <div><img alt="sample" src="200x200.png"></div>
-
-          <p class="price">$50</p>
-
-          <p class="productContent">Content holder</p>
-
-          <input type="button" name="button" value="Buy" class="buyButton">
-
-        </article>
-
-        <article class="productInfo"><!-- Each individual product description -->
-
-          <div><img alt="sample" src="200x200.png"></div>
-
-          <p class="price">$50</p>
-
-          <p class="productContent">Content holder</p>
-
-          <input type="button" name="button" value="Buy" class="buyButton">
-
-        </article>
-
-      </div>
-
-      <div class="productRow">
-
-        <article class="productInfo"> <!-- Each individual product description -->
-
-          <div><img alt="sample" src="200x200.png"></div>
-
-          <p class="price">$50</p>
-
-          <p class="productContent">Content holder</p>
-
-          <input type="button" name="button" value="Buy" class="buyButton">
-
-        </article>
-
-        <article class="productInfo"><!-- Each individual product description -->
-
-          <div><img alt="sample" src="200x200.png"></div>
-
-          <p class="price">$50</p>
-
-          <p class="productContent">Content holder</p>
-
-          <input type="button" name="button" value="Buy" class="buyButton">
-
-        </article>
-
+      <div class="productRow"><!-- Each product row contains info of 3 elements -->
+		<?php
+        $items1 = array('Basic','Intermediate','Advanced');
+        $prices1 = array('$400','$500','$700');
+        $i=0;
+        foreach ($items1 as $item){
+     	  ?>
         <article class="productInfo"><!-- Each individual product description -->
 
           <div><img alt="sample" src="Images/200x200.png"></div>
 
-          <p class="price">$50</p>
+          <p class="price"><?php echo $prices1[$i]; ?></p>
 
-          <p class="productContent">Content holder</p>
+          <p class="productContent"><?php echo $item ?></p>
 
           <input type="button" name="button" value="Buy" class="buyButton">
 
         </article>
+	<?php $i=$i+1;} ?>
+        
 
       </div>
+
+<div class="productRow"><!-- Each product row contains info of 3 elements -->
+		<?php
+        $items1 = array('Basic','Intermediate','Advanced');
+        $prices1 = array('$400','$500','$700');
+        $i=0;
+        foreach ($items1 as $item){
+     	  ?>
+        <article class="productInfo"><!-- Each individual product description -->
+
+          <div><img alt="sample" src="Images/200x200.png"></div>
+
+          <p class="price"><?php echo $prices1[$i]; ?></p>
+
+          <p class="productContent"><?php echo $item ?></p>
+
+          <input type="button" name="button" value="Buy" class="buyButton">
+
+        </article>
+	<?php $i=$i+1;} ?>
+        
+
+      </div>
+
 
     </section>
 
@@ -249,5 +213,6 @@
 </div>
 
 </body>
+
 </html>
 

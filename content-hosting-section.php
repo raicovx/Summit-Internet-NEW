@@ -156,13 +156,8 @@
                             <tbody>
                                   <tr>
                                     <td>Email Hosting Standard</td>
-                                    <td>$35</td>                                    
+                                    <td>$22</td>                                    
                                     <td>15</td>                                    
-                                  </tr> 
-                                 <tr>
-                                    <td>Email Hosting Plus</td>
-                                    <td>$55</td>                                    
-                                    <td>30</td>                                    
                                   </tr> 
                             </tbody>
                   </table>
@@ -180,19 +175,7 @@
                         </ul>
                 </blockquote>
         
-        <h5>Email Hosting Plus</h5>
-                <blockquote>
-                    <ul>
-                   <li><i class="mdi-content-add-box"></i> Catchall Email Address (Receives incorrectly addressed emails for your domain e.g emails sent to example@yourdomain.com.au will be directed to your catch all email address in cases where the email address does not exist)</li>
-                    <br>
-              
-                    <li><i class="mdi-content-add-box"></i> Web based email service</li>
-                    <br>
-              
-                    <li><i class="mdi-content-add-box"></i> 1 Gb per Mailbox</li>
-                        </ul>
-                </blockquote>
-        </div>     
+             </div>     
     </div>
     <div id="domains" class="col s12 m12 l10 offset-l1">
     <div class="hostingCard card">
@@ -291,7 +274,7 @@ Our vision is of a solution that provides a total Spam filter service that prote
       <blockquote><p>Upon activation of your account, you will be given an hour of training on how to manage the level of spam filtering you require. Only 1 login provided per domain.</p></blockquote>
   </div>
         <div class="divider"></div>        
-        <a href="Document/SpamSignupForm.pdf" class="waves-effect waves-light btn-large red darken-4 col s8 offset-s2 l2 offset-l5 spamDocBtn"><i class="mdi-action-info left"></i>Spam Filtering Sign Up Form</a>
+        <a href="Document/SpamSignupForm.pdf" class="waves-effect waves-light btn-large red darken-4 col s12 l6 offset-l3 spamDocBtn"><i class="mdi-action-info left"></i>Spam Filtering Sign Up Form</a>
         </div>     
     </div>
 </div>

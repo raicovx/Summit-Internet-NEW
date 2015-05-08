@@ -10705,8 +10705,8 @@ img {
 }
 
 .fullScreen {
-  position: fixed;
-  z-index: 999;
+  position: absolute;
+  z-index: 100;
   right: 5%;
   top: 340px;
   font-size: 35px;

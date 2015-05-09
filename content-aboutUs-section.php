@@ -1,7 +1,7 @@
 <div class="row">
 	<div class="card col s12 m12 l10 offset-l1">
 		<h3 id="aboutUs" class="scrollspy">About Us</h3>
-		<div class="card blue-grey darken-1 col s12 m6 offset-m3 l6 offset-l3">
+		<div class="card businessCard blue-grey darken-1 col s12 m12 l10 offset-l1">
 		<div class="card-content white-text">
 			<img class="circle responsive-img" src="images/billimage.jpg" style="width:100px; height:auto;">
              <div class="cardText">

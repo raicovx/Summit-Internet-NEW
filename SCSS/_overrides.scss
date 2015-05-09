@@ -18,3 +18,29 @@ th{
     background-color:$secondary-color;
     height:4px!important;
  }
+
+@media only screen and (min-width: 0) and (max-width:380px){
+    .businessCard{
+        height:370px;
+    }   
+}
+@media only screen and (min-width: 0) and (max-width:380px){
+    .card .card-action{
+        margin-top:290px;   
+    }
+}
+@media only screen and (min-width: 381px) and (max-width:500px){
+    .businessCard{
+        height:350px;
+    }   
+}
+@media only screen and (min-width: 381px) and (max-width:500px){
+    .card .card-action{
+        margin-top:260px;   
+    }
+}
+@media only screen and (min-width: 644px){
+    .card .card-action{
+           width:50%;
+    }
+}

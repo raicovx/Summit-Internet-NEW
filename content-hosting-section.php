@@ -1,6 +1,6 @@
 <div id="hostingSection" class="row scrollspy">
-    <div class="col s12 m12 l10 offset-l1">
-      <ul class="tabs">
+    <div class="col tabScalingHelper s12 m12 l10 offset-l1">
+      <ul class="tabs mobileScaledTabs">
         <li class="tab col s3 waves-effect waves-light"><a class="active" href="#webHosting">Web Hosting</a></li>
         <li class="tab col s3 waves-effect waves-light"><a href="#email">E-mail</a></li>
         <li class="tab col s3 waves-effect waves-light"><a href="#domains">Domain Names</a></li>
@@ -242,7 +242,7 @@ Summit Internet spam filter works as a managed security service where there is n
   <div class="divider"></div>
   <div class="section">
     <h5>How do we block spam?</h5>
-      <p>Using our extensive anti spam filters and sophisticated virus scanning over your company domain name, we help keep your email secure, block malicious code and viruses. Our technology filters spam out of your entire business and sends only preferred email on to your mail servers which in turn frees up IT resources, Employee’s mailbox space and internet Bandwidth within your network.</p><p>
+      <p>Using our extensive anti spam filters and sophisticated virus scanning over your company domain name, we help keep your email secure, block malicious code and viruses. Our technology filters spam out of your entire business and sends only preferred email on to your mail servers which in turn frees up IT resources, Employee's mailbox space and internet Bandwidth within your network.</p><p>
 Our vision is of a solution that provides a total Spam filter service that protects and secures your network from unsolicited spam emails as quickly and efficiently as possible</p>
   </div>
   <div class="divider"></div>

@@ -32,7 +32,7 @@ Feedback: <a class="blue-grey-text text-darken-3 redBG" href="mailto:feedback@su
 		<div class="address Info col s12 l6 card-panel blue-grey darken-4 white-text">	
 			<h3 class="center">Technical Support</h3>
 				<p class="center"> Anytime<br>
-<a class="red-text text-darken-2" href="tel:0403046464">0403046464</a><br>
+<a class="red-text blueBG text-darken-2" href="tel:0403046464">0403046464</a><br>
 Email: support@summit.net.au<br>
 
 </p>

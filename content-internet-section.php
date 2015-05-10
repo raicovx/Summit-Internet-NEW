@@ -1,5 +1,5 @@
  <div id="intSection" class="row scrollspy">
-    <div class="col s12 m12 l10 offset-l1">
+    <div class="col tabScalingHelper s12 m12 l10 offset-l1">
       <ul class="tabs">
         <li class="tab col s4 waves-effect waves-light"><a class="active" href="#nbn">NBN Plans</a></li>
         <li class="tab col s4 waves-effect waves-light"><a href="#adsl2">ADSL 2+</a></li>
@@ -49,7 +49,7 @@
             <div class="nbnDivision divider col s12 m10 offset-m1 l10 offset-l1"></div>
             <br>
             <h4 class='nbnSubHeading'> Download:25Mbps/Upload:5Mbps</h4>
-            <table class="hoverable centered responsive-table">
+            <table class="hoverable centered">
                             <thead class="blue-grey darken-4 white-text">
                                   <tr>
                                       <th data-field="Plan">Plan</th>

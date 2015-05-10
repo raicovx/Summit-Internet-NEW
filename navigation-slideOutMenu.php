@@ -6,9 +6,9 @@
                 <a class="collapsible-header">Internet<i class="mdi-navigation-arrow-drop-down"></i></a>
           <div class="collapsible-body">
             <ul>
-              <li><a href="#!">ADSL 2+</a></li>
-              <li><a href="#!">VOIP</a></li>
-              <li><a href="#!">NBN Plans</a></li>
+              <li><a href="#intSection">ADSL 2+</a></li>
+              <li><a href="#intSection">VOIP</a></li>
+              <li><a href="#intSection">NBN Plans</a></li>
             </ul>
         </div>
       </li>
@@ -20,18 +20,18 @@
                 <a class="collapsible-header">Hosting<i class="mdi-navigation-arrow-drop-down"></i></a>
           <div class="collapsible-body">
             <ul>
-              <li><a href="#!">Web Hosting</a></li>
-              <li><a href="#!">E-Mail</a></li>
-              <li><a href="#!">Domain Names</a></li>
-              <li><a href="#!">Spam Filters</a></li>
+              <li><a href="#hostingSection">Web Hosting</a></li>
+              <li><a href="#hostingSection">E-Mail</a></li>
+              <li><a href="#hostingSection">Domain Names</a></li>
+              <li><a href="#hostingSection">Spam Filters</a></li>
             </ul>
         </div>
       </li>
     </ul>
                 </li>
-            <li><a href="webDesign.html">Web Design</a></li>
-            <li><a href="support.html">Support</a></li>
-            <li><a href="contactUs.html">Contact Us</a></li>
+            <li><a href="#webDesignSection">Web Design</a></li>
+            <li><a href="#supportSection">Support</a></li>
+            <li><a href="#contactUsSection">Contact Us</a></li>
 
                   <li class="no-padding">
       <ul class="collapsible collapsible-accordion">
@@ -39,13 +39,13 @@
                 <a class="collapsible-header">Members<i class="mdi-navigation-arrow-drop-down"></i></a>
           <div class="collapsible-body">
             <ul>
-              <li><a href="#!">Web Mail</a></li>
-              <li><a href="#!">VOIP Usage</a></li>
+              <li><a href="http://mymail.summit.net.au/">Web Mail</a></li>
+              <li><a href="#voipUsage">VOIP Usage</a></li>
             </ul>
         </div>
       </li>
     </ul>
                 </li>
-            <li><a href="aboutUs.html">About Us</a></li>
+            <li><a href="#aboutUs">About Us</a></li>
             </ul>
                <a href="#" data-activates="slide-out" class="button-collapse"><i class="mdi-navigation-menu"></i></a>

@@ -38,7 +38,7 @@ $(document).ready(function(){
         }
          
     });
-    $('#dropdown1 li a').on('click', function(){
+    $('#dropdown1 li a,.collapsible-body ul li a').on('click', function(){
             var thisClick = $(this).html();
             if(thisClick == 'NBN Plans'){
                 $('ul.tabs').tabs('select_tab', 'nbn');
@@ -48,7 +48,7 @@ $(document).ready(function(){
                 $('ul.tabs').tabs('select_tab', 'voip');   
             };
     });
-    $('#dropdown2 li a').on('click', function(){
+    $('#dropdown2 li a, .collapsible-body ul li a').on('click', function(){
             var thisClick = $(this).html();
             if(thisClick == 'Web Hosting'){
                 $('ul.tabs').tabs('select_tab', 'webHosting');

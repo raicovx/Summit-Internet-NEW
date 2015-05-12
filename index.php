@@ -23,8 +23,7 @@
     </div>  
      
     <div class="row">
-              <?php include('content-slider.php'); ?>
-         
+              <?php include('content-slider.php'); ?>   
     </div>
       <main>
                <div class="container"> 

@@ -10,7 +10,7 @@
         </div>
       </li>
       <li>
-        <img src="Images/binary-715791_1920.jpg"> 
+        <img src="Images/binary-715791_1920.jpg">
         <div class="caption left-align white-text">
           <h3>NBN Plans</h3>
           <h5 class="light">Keen to get your hands on the NBN?<br/> See our plans here!</h5>
@@ -24,13 +24,13 @@
         </div>
       </li>
       <li>
-        <img src="Images/laptop-240192_1280.jpg"> 
+        <img src="Images/laptop-240192_1280.jpg">
         <div class="caption center-align">
           <h3>IT Support</h3>
           <h5 class="white-text light">Summit can provide IT support onsite or remotely, including but not limited to hardware sales, software &amp; application support, staff training and server maintenance.</h5>
         </div>
       </li>
     </ul>
-     
+
   </div>
   </div>

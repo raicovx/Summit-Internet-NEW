@@ -3,7 +3,8 @@ $(document).ready(function(){
         fullScreenButtn = $('.fullScreen'),
         sliderCont = $('.slider'),
         indic = $('.indicators'),
-        navBar = $('nav');
+        navBar = $('nav'),
+        hasRun;
         indic.css('bottom', '');
     $(".dropdown-button").dropdown();
      $(".button-collapse").sideNav();
@@ -12,7 +13,6 @@ $(document).ready(function(){
 
     $('.fullScreen').on('click', function(){
         if(isFullScreen){
-            sliderCont.css('height','');
             $('.welcomeArea').css("marginTop", "");
          fullScreenButtn.css('top', '330px');
          sliderCont.toggleClass('fullscreen');
@@ -28,7 +28,7 @@ $(document).ready(function(){
 
 
 }else{
-           sliderCont.css('height','');
+          sliderCont.css('height','');
             indic.css('top','');
           sliderCont.toggleClass('fullscreen');
         isFullScreen = true;

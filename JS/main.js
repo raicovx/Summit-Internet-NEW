@@ -3,8 +3,7 @@ $(document).ready(function(){
         fullScreenButtn = $('.fullScreen'),
         sliderCont = $('.slider'),
         indic = $('.indicators'),
-        navBar = $('nav'),
-        hasRun;
+        navBar = $('nav');
         indic.css('bottom', '');
     $(".dropdown-button").dropdown();
      $(".button-collapse").sideNav();
@@ -32,7 +31,7 @@ $(document).ready(function(){
             indic.css('top','');
           sliderCont.toggleClass('fullscreen');
         isFullScreen = true;
-        navBar.animate({top:"-100px"},1000).delay(1050).hide(0);
+        navBar.animate({top:"-100px"},1000).delay(1000).hide(0);
             $('html, body').css({
     'overflow': 'hidden',
     'height': '100%'

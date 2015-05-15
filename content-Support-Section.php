@@ -10,16 +10,16 @@ As a customer of Summit Internet you can call me anytime. We do provide access t
       <div class="collapsible-body">
 <p>Right click on the My Computer Icon on the desktop and then left click on Properties.</p>
 <p>&nbsp;</p>
-<p><object width="480" height="385" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="src" value="http://www.youtube.com/v/P1b591FK-9c&amp;hl=en_GB&amp;fs=1&amp;"><param name="allowscriptaccess" value="always"><param name="allowfullscreen" value="true"><embed width="480" height="385" type="application/x-shockwave-flash" src="http://www.youtube.com/v/P1b591FK-9c&amp;hl=en_GB&amp;fs=1&amp;" allowscriptaccess="always" allowfullscreen="true"></object></p>
-<p>&nbsp;</p></div>
+<p><div class="video-container"><object width="480" height="385" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="src" value="http://www.youtube.com/v/P1b591FK-9c&amp;hl=en_GB&amp;fs=1&amp;"><param name="allowscriptaccess" value="always"><param name="allowfullscreen" value="true"><embed width="480" height="385" type="application/x-shockwave-flash" src="http://www.youtube.com/v/P1b591FK-9c&amp;hl=en_GB&amp;fs=1&amp;" allowscriptaccess="always" allowfullscreen="true"></object></p>
+<p>&nbsp;</p></div></div>
 	</li>
 	<li>
 		<div class="collapsible-header"><i class="mdi-action-info-outline"></i>What is the correct way to remove a program from my computer?</div>
       <div class="collapsible-body">
 <p>The best way is to go to Control Panel/Add remove programs. Find the program you wish to remove, click on it and follow the on screen directions. If the program is not there you can check to see if there is an uninstall option when you go to the Program itself or in the start menu options for that program. As a last resort, you can move the program folder to the recycle bin but this will not totally remove it and may cause problems. Leave it on the computer if space allows.</p>
 <p>&nbsp;</p>
-<p><object width="480" height="385" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="src" value="http://www.youtube.com/v/5xv8lXJxc1w&amp;hl=en_GB&amp;fs=1&amp;"><param name="allowscriptaccess" value="always"><param name="allowfullscreen" value="true"><embed width="480" height="385" type="application/x-shockwave-flash" src="http://www.youtube.com/v/5xv8lXJxc1w&amp;hl=en_GB&amp;fs=1&amp;" allowscriptaccess="always" allowfullscreen="true"></object></p>
-<p>&nbsp;</p></div>
+<p><div class="video-container"><object width="480" height="385" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="src" value="http://www.youtube.com/v/5xv8lXJxc1w&amp;hl=en_GB&amp;fs=1&amp;"><param name="allowscriptaccess" value="always"><param name="allowfullscreen" value="true"><embed width="480" height="385" type="application/x-shockwave-flash" src="http://www.youtube.com/v/5xv8lXJxc1w&amp;hl=en_GB&amp;fs=1&amp;" allowscriptaccess="always" allowfullscreen="true"></object></p>
+<p>&nbsp;</p></div></div>
 	</li>
 		<li>
 		<div class="collapsible-header"><i class="mdi-action-info-outline"></i>What does OEM mean?</div>
@@ -35,8 +35,8 @@ As a customer of Summit Internet you can call me anytime. We do provide access t
 		<div class="collapsible-header"><i class="mdi-action-info-outline"></i>What is the difference between Save and Save As?</div>
       <div class="collapsible-body"><p>Use SAVE when you are revising an existing document. Use SAVE AS when you are creating a new document from scratch or an existing document. This will keep the original document untouched in its original format and create a new document with a new name.</p>
 <p>&nbsp;</p>
-<p><object width="560" height="340" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="src" value="http://www.youtube.com/v/I6fc5605b_E&amp;hl=en_GB&amp;fs=1&amp;"><param name="allowscriptaccess" value="always"><param name="allowfullscreen" value="true"><embed width="560" height="340" type="application/x-shockwave-flash" src="http://www.youtube.com/v/I6fc5605b_E&amp;hl=en_GB&amp;fs=1&amp;" allowscriptaccess="always" allowfullscreen="true"></object></p>
-	</div></li>
+<p><div class="video-container"><object width="560" height="340" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="src" value="http://www.youtube.com/v/I6fc5605b_E&amp;hl=en_GB&amp;fs=1&amp;"><param name="allowscriptaccess" value="always"><param name="allowfullscreen" value="true"><embed width="560" height="340" type="application/x-shockwave-flash" src="http://www.youtube.com/v/I6fc5605b_E&amp;hl=en_GB&amp;fs=1&amp;" allowscriptaccess="always" allowfullscreen="true"></object></p>
+</div></div></li>
 	<li>
 		<div class="collapsible-header"><i class="mdi-action-info-outline"></i>What is the difference between the *system tray* and the *quick launch tray*?</div>
       <div class="collapsible-body"><p>The system tray is that portion of the task bar (usually on the bottom of the screen-but you can drag it to either side or to the top!) that is on the right hand side displaying the clock and some of those programs that are running in the background. The portion on the left is the ‘quick launch tray’ because you can drag icons/shortcuts there and with a single click you can start or ‘launch’ the program.</p>
@@ -46,10 +46,10 @@ As a customer of Summit Internet you can call me anytime. We do provide access t
 		<div class="collapsible-header"><i class="mdi-action-info-outline"></i>What is a system defragment(defrag)?</div>
       <div class="collapsible-body"><p>The act of defragmenting a hard drive. When you defragment a hard drive you use a software utility to arrange the order of your files so that each file is represented in a physically continuous segment. Defragmentation can improve your hard drive performance because it can read any particular file in a continuous stream instead of jumping here and there around a hard drive to locate each file segment or fragment.</p>
 		  <p>&nbsp;</p>
-		  <p><object width="560" height="340" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="src" value="http://www.youtube.com/v/BUo9kI07_-c&amp;hl=en_GB&amp;fs=1&amp;"><param name="allowscriptaccess" value="always"><param name="allowfullscreen" value="true"><embed width="560" height="340" type="application/x-shockwave-flash" src="http://www.youtube.com/v/BUo9kI07_-c&amp;hl=en_GB&amp;fs=1&amp;" allowscriptaccess="always" allowfullscreen="true"></object></p>
-<p>&nbsp;</p></div>
+		  <p><div class="video-container"><object width="560" height="340" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="src" value="http://www.youtube.com/v/BUo9kI07_-c&amp;hl=en_GB&amp;fs=1&amp;"><param name="allowscriptaccess" value="always"><param name="allowfullscreen" value="true"><embed width="560" height="340" type="application/x-shockwave-flash" src="http://www.youtube.com/v/BUo9kI07_-c&amp;hl=en_GB&amp;fs=1&amp;" allowscriptaccess="always" allowfullscreen="true"></object></p>
+<p>&nbsp;</p></div></div>
 	</li>
-	
+
 	<li>
 		<div class="collapsible-header"><i class="mdi-action-info-outline"></i>How can I check my E-mail when I am away from home?</div>
       <div class="collapsible-body"><p>Before you leave, check the home page of your ISP. Take a look at our web site and under the “Member Tab” you will see “Webmail”. You can login with a username and password (if you don’t know what your username and password is please contact our office). This will allow you to check your email away from home or work.&nbsp;<a href="http://mymail.summit.net.au/" target="_blank">Summit Web Mail</a></p>
@@ -59,8 +59,8 @@ As a customer of Summit Internet you can call me anytime. We do provide access t
 		<div class="collapsible-header"><i class="mdi-action-info-outline"></i>How do I open a RAR file?</div>
       <div class="collapsible-body"><p>A RAR file (Resource Adapters Archive) is a compressed file (like a Zip file). You need a decompressing program to see the contents of a RAR file. One you can use is called WinRAR. A trial version is available at<a href="http://www.download.com/" target="_blank">www.download.com</a></p>
 <p>&nbsp;</p>
-<p><object width="480" height="385" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="src" value="http://www.youtube.com/v/VNTTqISQD8I&amp;hl=en_GB&amp;fs=1&amp;"><param name="allowscriptaccess" value="always"><param name="allowfullscreen" value="true"><embed width="480" height="385" type="application/x-shockwave-flash" src="http://www.youtube.com/v/VNTTqISQD8I&amp;hl=en_GB&amp;fs=1&amp;" allowscriptaccess="always" allowfullscreen="true"></object></p>
-<p>&nbsp;</p></div>
+<p><div class="video-container"><object width="480" height="385" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="src" value="http://www.youtube.com/v/VNTTqISQD8I&amp;hl=en_GB&amp;fs=1&amp;"><param name="allowscriptaccess" value="always"><param name="allowfullscreen" value="true"><embed width="480" height="385" type="application/x-shockwave-flash" src="http://www.youtube.com/v/VNTTqISQD8I&amp;hl=en_GB&amp;fs=1&amp;" allowscriptaccess="always" allowfullscreen="true"></object></p>
+<p>&nbsp;</p></div></div>
 	</li>
 	<li>
 		<div class="collapsible-header"><i class="mdi-action-info-outline"></i>My Desktop Icons keep Changing?</div>
@@ -71,14 +71,14 @@ As a customer of Summit Internet you can call me anytime. We do provide access t
 		<div class="collapsible-header"><i class="mdi-action-info-outline"></i>What is a Line Filter and how do i install it?</div>
       <div class="collapsible-body"><p>A&nbsp;<b>line filter</b>&nbsp;is installed between analog devices (such as telephones or analog modems) and a telephone line, in order to prevent interference between such devices and a&nbsp;<a title="Digital subscriber line" href="http://en.wikipedia.org/wiki/Digital_subscriber_line">DSL</a>&nbsp;service operating on the same line. Without DSL filters, signals or echoes from analog devices at the top of their frequency range can result in reduced performance and connection problems with DSL service, while those from the DSL service at the bottom of its range can result in line noise and other issues for analog devices.</p>
 <p>&nbsp;</p>
-<p><object width="480" height="385" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="src" value="http://www.youtube.com/v/RP6IKid4joI&amp;hl=en_GB&amp;fs=1&amp;"><param name="allowscriptaccess" value="always"><param name="allowfullscreen" value="true"><embed width="480" height="385" type="application/x-shockwave-flash" src="http://www.youtube.com/v/RP6IKid4joI&amp;hl=en_GB&amp;fs=1&amp;" allowscriptaccess="always" allowfullscreen="true"></object></p></div>
-	</li>
+<p><div class="video-container"><object width="480" height="385" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="src" value="http://www.youtube.com/v/RP6IKid4joI&amp;hl=en_GB&amp;fs=1&amp;"><param name="allowscriptaccess" value="always"><param name="allowfullscreen" value="true"><embed width="480" height="385" type="application/x-shockwave-flash" src="http://www.youtube.com/v/RP6IKid4joI&amp;hl=en_GB&amp;fs=1&amp;" allowscriptaccess="always" allowfullscreen="true"></object></p></div>
+</div></li>
 	<li>
 		<div class="collapsible-header"><i class="mdi-action-info-outline"></i>What is a ADSL Modem and how do i connect it to my computer?</div>
       <div class="collapsible-body"><p>An ADSL modem or DSL modem is a device used to connect a single computer or router to a DSL phone line, in order to use an ADSL service. Most moden ADSL modem combine both a modem and router all in one unit.</p>
 <p>&nbsp;</p>
-<p><object width="480" height="385" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="src" value="http://www.youtube.com/v/hAAnXMDovls&amp;hl=en_GB&amp;fs=1&amp;"><param name="allowscriptaccess" value="always"><param name="allowfullscreen" value="true"><embed width="480" height="385" type="application/x-shockwave-flash" src="http://www.youtube.com/v/hAAnXMDovls&amp;hl=en_GB&amp;fs=1&amp;" allowscriptaccess="always" allowfullscreen="true"></object></p></div>
-	</li>
+<p><div class="video-container"><object width="480" height="385" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="src" value="http://www.youtube.com/v/hAAnXMDovls&amp;hl=en_GB&amp;fs=1&amp;"><param name="allowscriptaccess" value="always"><param name="allowfullscreen" value="true"><embed width="480" height="385" type="application/x-shockwave-flash" src="http://www.youtube.com/v/hAAnXMDovls&amp;hl=en_GB&amp;fs=1&amp;" allowscriptaccess="always" allowfullscreen="true"></object></p></div>
+</div></li>
 	<li>
 		<div class="collapsible-header"><i class="mdi-action-info-outline"></i>Why won't Internet Explorer display my ADSL usage?</div>
       <div class="collapsible-body"><p>This is a two part question please read below for explanation</p>
@@ -121,7 +121,7 @@ Other kinds of spyware make changes to your computer that can be annoying and ca
 <p>The key in all cases is whether or not you (or someone who uses your computer) understand what the software will do and have agreed to install the software on your computer. A common trick is to covertly install the software during the installation of other software you want such as a music or video file sharing program. Whenever you install something on your computer, make sure you carefully read all disclosures, including the license agreement and privacy statement. Sometimes the inclusion of unwanted software in a given software installation is documented, but it might appear at the end of a license agreement or privacy statement.There are a number of ways spyware or other unwanted software can get on your computer.</p>
 </div>
 	</li>
-	</ul>			
-		
+	</ul>
+
    </div>
 </div>

@@ -66,5 +66,8 @@ $(document).ready(function(){
                   $('ul.tabs').tabs('select_tab', 'spamFilter');
             };
     });
+    $(window).resize(function(){
+      $('ul.tabs').tabs();
+    });
     $('.scrollspy').scrollSpy();
 });

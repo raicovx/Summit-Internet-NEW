@@ -10880,7 +10880,7 @@ th {
   }
 
   /* .row .col{
-      padding: 0 0;   
+      padding: 0 0;
    }*/
   table {
     font-size: 0.6rem;
@@ -10905,6 +10905,10 @@ th {
 
   .welcomeText {
     padding: 15px;
+  }
+
+  .welcomeArea .card {
+    height: auto;
   }
 
   /*---------------------contact----------------------------*/
@@ -10945,7 +10949,7 @@ th {
   .collapsible-header {
     height: 4rem;
     line-height: 1.5rem;
-    padding: 0.5rem 1rem;
+    padding: 0.5rem 0.5rem;
   }
 
   /*---------------------About Us----------------------------*/
@@ -10989,6 +10993,10 @@ th {
     padding: 1rem 1rem !important;
   }
 
+  .welcomeArea .card {
+    height: auto;
+  }
+
   /*---------------------Internet & Hosting----------------------------*/
   .tabs {
     width: 160% !important;
@@ -11026,7 +11034,7 @@ th {
   .collapsible-header {
     height: 4rem;
     line-height: 1.5rem;
-    padding: 0.5rem 1rem;
+    padding: 0.5rem 0.5rem;
   }
 
   /*---------------------Members----------------------------*/

@@ -71,6 +71,12 @@ th{
      overflow-y: hidden; 
      padding:0 0!important;
     }
+    .internetCard{
+        padding:5px!important;   
+    }
+    #nbn, #adsl, #voip, #webHosting, #email, #domains, #spamFilter{
+        padding:0;   
+    }
     ::-webkit-scrollbar { 
     display: none; 
     }

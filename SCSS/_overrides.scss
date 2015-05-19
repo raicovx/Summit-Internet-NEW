@@ -68,7 +68,8 @@ th{
     }
     .tabScalingHelper{
      overflow-x: scroll;
-     overflow-y: hidden;    
+     overflow-y: hidden; 
+     padding:0 0!important;
     }
     ::-webkit-scrollbar { 
     display: none; 

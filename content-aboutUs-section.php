@@ -3,7 +3,7 @@
 		<h3 id="aboutUs" class="scrollspy">About Us</h3>
 		<div class="card businessCard blue-grey darken-1 col s12 m12 l10 offset-l1">
 		<div class="card-content white-text">
-			<img class="circle responsive-img" src="images/billimage.jpg" style="width:100px; height:auto;">
+			<img class="circle responsive-img" src="Images/billimage.jpg" style="width:100px; height:auto;">
              <div class="cardText">
 			  <span class="card-title">Bill Bowes</span>
              <p class="flowtext"><b>Vital Statistics:</b> William (Bill) Bowes<br>
@@ -14,10 +14,10 @@
 			<div class="card-action">
               <a href="tel:0479016224">0479016224</a>
               <a href='mailto:wjb@summit.net.au' cm_dontconvertlink>wjb@summit.net.au</a>
-            </div>	
+            </div>
 			</div>
-			
-        
+
+
 	</div><div class="col m3 l3">&nbsp;</div>
 		<div class="col s12 m12 l12">
 <p><b>Q:</b> Have you always been involved in the IT (Information Technology) business?<br>

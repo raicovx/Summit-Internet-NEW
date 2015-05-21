@@ -109,7 +109,7 @@ th{
     height:400px;
         padding:15px;
     }
-@media only screen and (min-width: 381px) and (max-width:662px){
+@media only screen and (min-width: 381px) and (max-width:660px){
     .container{
         width:95%;   
     }
@@ -131,6 +131,9 @@ th{
     /*---------------------welcome----------------------------*/
       .logoCard{
         padding: 1rem 1rem!important;
+    }
+     .welcomeArea .card{
+      height:auto!important; 
     }
     /*---------------------Internet & Hosting----------------------------*/  
     .tabs{
@@ -171,11 +174,12 @@ th{
     height:500px;   
     }   
 }
-@media only screen and (min-width: 644px){
+@media only screen and (min-width: 661px){
     .card .card-action{
            width:50%;
     }
     /*---------------------welcome----------------------------*/
+   
      /*---------------------Members----------------------------*/
     .checkUsage{
     height:400px;

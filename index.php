@@ -15,8 +15,7 @@
             include('navigation-dropdown-hosting.php');
             include('navigation-dropdown-members.php'); 
             include('navigation-main.php'); 
-            include('navigation-slideOutMenu.php');?>
-             
+            include('navigation-slideOutMenu.php');?>  
             
      </div>
     </nav>
@@ -29,7 +28,19 @@
                <div class="container"> 
     <?php 
     include('content-welcome-area.php');
-    include('content-internet-section.php');
+    include('content-internet-section.php');?>
+<div class="adverts center card col s12 m12 l10 offset-l1">
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Material Summit -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-6844717037952909"
+     data-ad-slot="3163841758"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+    </div><?php
     include('content-hosting-section.php');
     include('content-webDesign-section.php');
     include('content-Support-section.php');
@@ -37,8 +48,21 @@
     include('content-members-voipUsage.php');
     include('content-aboutUs-section.php');
     ?>
+                    <div class="adverts center card ">
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Material Summit -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-6844717037952909"
+     data-ad-slot="3163841758"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+    </div>
     </div>
         </main>
+   
 <script src="JS/materialize.min.js"></script>
     <script src="JS/main.js"></script>
 </body>

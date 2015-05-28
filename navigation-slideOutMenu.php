@@ -1,5 +1,5 @@
   <ul id="slide-out" class="side-nav">
-              <li><a href="home.html">Home</a></li>
+              <li><a href="#slider">Home</a></li>
            <li class="no-padding">
       <ul class="collapsible collapsible-accordion">
         <li>

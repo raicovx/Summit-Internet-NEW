@@ -2,9 +2,12 @@
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no, target-densitydpi=device-dpi">
     <?php include('headHTML.php'); ?>
-    
+
 </head>
 <body class="grey lighten-2">
+    <div class="ieCompat">
+        <p> Sorry we Dont support your browser, please upgrade to at least internet explorer 11, <br><br>OR Download FireFox or Google Chrome:<br><br> <a href="https://www.mozilla.org/en-US/firefox/new/"><img src="Images/fflogo.png"></a> <a href="https://www.google.com/chrome/browser/desktop/index.html"><img src="Images/chrome_logo.png"></a></p>
+    </div>
     <div class="navbar-fixed">
     <nav>
         <div class="nav-wrapper">

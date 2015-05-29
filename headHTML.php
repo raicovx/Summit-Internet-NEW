@@ -1,7 +1,12 @@
 <title>Summit Internet</title>
-<script src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
+    <!--[if lt IE 9]>
+<script src="JS/jquery-1.11.3-ie.js"></script>
+	
+<![endif]-->
+<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
     <link rel="stylesheet" href="CSS/materialize.min.css"/>
     <link rel="stylesheet" href="CSS/main.css"/>
+<!--[if lt IE 9]><link rel="stylesheet" type="text/css" href="CSS/ie8-and-down.css" /><![endif]-->
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

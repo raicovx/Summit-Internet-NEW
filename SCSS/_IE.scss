@@ -1,29 +1,38 @@
+.ieCompat{
+    display:none;
+    width:100%;
+    height:100%;
+    background-color:$primary-color;
+}
+
 html[data-useragent*='MSIE 10.0']{
-    nav ul a{
-    width:125px;
-    text-align:center;
+    .ieCompat{
+    display:block;
+    width:100%;
+    height:100%;
+    background-color:$primary-color;
+        color:#FFF;
+        z-index:999;
+        text-align: center;
+    img{
+        width:100px;
+        height:auto;
+    }   
+}
+
+    body{
+        width:100%; 
+        height:100%;
+        overflow: hidden;
+    }   
+    .nav-wrapper{
+    display:none!important;
+    visibility: hidden!important;
     }
-    
-   @media (max-width: 1350px){
-         nav ul a{
-             width:115px;
-             text-align:center;
-             font-size: 13px;
-             i{
-                font-size:17px;   
-             }
-        }   
-       }
-         @media (max-width: 1150px){
-         nav ul a{
-             width:115px;
-             text-align:center;
-             font-size: 13px;
-             i{
-                font-size:17px;   
-             }
-        }   
-     }
+    .side-nav{
+        display:none!important;   
+        visibility:hidden!important;
+    }
    
 }
 html[data-useragent*='Trident/7.0']{
@@ -64,5 +73,14 @@ html[data-useragent*='Trident/7.0']{
              }
               
         }
+    @media (max-width: 970px){
+        nav ul a{
+            font-size:12px;
+        }
+        i{
+               font-size:25px; 
+            margin-right: 0;
+        }
     }
+}
 

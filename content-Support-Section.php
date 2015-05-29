@@ -1,5 +1,5 @@
 <div class="row">
-    <div id="supportSection" class="col s12 m12 l10 offset-l1 supportCard card scrollspy">
+    <div id="supportSection" class="col s12 m12 l12 supportCard card scrollspy">
 		<h3>Support</h3>
 			<p>Request Help from Summit Internet, our trained staff are waiting for your call or email and are only to happy to help you with your IT issue.</p>
 <p>If our customers have a query or complaint please call Bill 0403046464

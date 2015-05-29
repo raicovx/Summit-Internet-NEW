@@ -1,12 +1,12 @@
  <div id="intSection" class="row scrollspy">
-    <div class="col tabScalingHelper s12 m12 l10 offset-l1">
+    <div class="col tabScalingHelper s12 m12 l12">
       <ul class="tabs">
         <li class="tab col s4 waves-effect waves-light"><a class="active" href="#nbn">NBN Plans</a></li>
         <li class="tab col s4 waves-effect waves-light"><a href="#adsl2">ADSL 2+</a></li>
         <li class="tab col s4 waves-effect waves-light"><a href="#voip">VOIP</a></li>
       </ul>
     </div>
-    <div id="nbn" class="col s12 m12 l10 offset-l1">
+    <div id="nbn" class="col s12 m12 l12">
         <div class="internetCard card">
             <h3 class='nbnTitle'>NBN Plans</h3>
             <h4 class='nbnSubHeading'> Download:12Mbps/Upload:1Mbps</h4>
@@ -46,7 +46,7 @@
                             </tbody>
                   </table>
             <br>
-            <div class="nbnDivision divider col s12 m10 offset-m1 l10 offset-l1"></div>
+            <div class="nbnDivision divider col s12 m10 offset-m1 l12"></div>
             <br>
             <h4 class='nbnSubHeading'> Download:25Mbps/Upload:5Mbps</h4>
             <table class="hoverable centered">
@@ -117,7 +117,7 @@
         </div> 
         
     </div>
-    <div id="adsl2" class="col s12 m12 l10 offset-l1">
+    <div id="adsl2" class="col s12 m12 l12">
         <div class="internetCard card"> Broadband is a convenient alternative to the traditional dial-up internet connection and another step forward in internet technology.
 ADSL (Asymmetric Digital Subscriber Line) is a growing technology that utilises a normal telephone line to provide high-speed Internet access.<br><br> 
                 <table class="hoverable centered">
@@ -234,7 +234,7 @@ You will require an ADSL2+ Modem/Router to connect to the DSL service. Some choi
                   </table>
         </div>
      </div>
-    <div id="voip" class="col s12 m12 l10 offset-l1">
+    <div id="voip" class="col s12 m12 l12">
         <div class="internetCard card">
         Summit Internet can offer VoIP Services at competitive rates. But before you start looking at pricing lets start with what is Voip.
 VoIP is just a fancy acronym.<br><br> The letters in VoIP stand for Voice-over-Internet Protocol.<br>

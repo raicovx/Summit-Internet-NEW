@@ -1,4 +1,5 @@
 $(document).ready(function(){
+    $('html').attr('data-useragent', navigator.userAgent);
     var isFullScreen = false,
         fullScreenButtn = $('.fullScreen'),
         sliderCont = $('.slider'),

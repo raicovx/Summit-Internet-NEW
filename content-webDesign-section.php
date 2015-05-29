@@ -1,5 +1,5 @@
 <div id="webDesignSection" class="row scrollspy">
-    <div class="col s12 m12 l10 offset-l1 card">
+    <div class="col s12 m12 l12 card">
         <h4>Web  Design</h4>
         Summit Internet offers a comprehensive web-design service, developing and maintaining internet sites for a range of purposes.
         <br>

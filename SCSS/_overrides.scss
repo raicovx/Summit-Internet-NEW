@@ -21,6 +21,10 @@ th{
  .fullScreen{
    font-size:20px!important;
  }
+#webDesignSection div{
+    margin-left:0!important;
+    margin-right:0!important;
+}
 /*Media Queries*/
 @media only screen and (min-width: 0) and (max-width:380px){
      .container{
@@ -187,5 +191,11 @@ th{
     .checkUsage{
     height:400px;
         padding:15px;
+    }
+}
+@media (max-width: 1057px){
+    nav ul a{
+      font-size: 0.8rem;
+      transition: font-size 0.2s;
     }
 }

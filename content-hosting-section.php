@@ -1,5 +1,5 @@
 <div id="hostingSection" class="row scrollspy">
-    <div class="col tabScalingHelper s12 m12 l10 offset-l1">
+    <div class="col tabScalingHelper s12 m12 l12">
       <ul class="tabs mobileScaledTabs">
         <li class="tab col s3 waves-effect waves-light"><a class="active" href="#webHosting">Web Hosting</a></li>
         <li class="tab col s3 waves-effect waves-light"><a href="#email">E-mail</a></li>
@@ -7,7 +7,7 @@
         <li class="tab col s3 waves-effect waves-light"><a href="#spamFilter">Spam Filtering</a></li>
       </ul>
     </div>
-    <div id="webHosting" class="col s12 m12 l10 offset-l1">
+    <div id="webHosting" class="col s12 m12 l12">
     <div class="hostingCard card">
             <p>At Summit Internet we have a range of contract free hosting services to help you or your business get up and running on the internet in no time. Each plan has different features depending on the complexity of your website.</p>
 <p>A Setup Fee of $55.00 applies to all Web Hosting accounts.</p>
@@ -135,7 +135,7 @@
         </div>
         </div>     
     </div>
-    <div id="email" class="col s12 m12 l10 offset-l1">
+    <div id="email" class="col s12 m12 l12">
     <div class="hostingCard card">
             <p>As a business owner you know how valuable email is to your day to day operations. Business Email offers you a fully featured email service you can count on.s</p>
 <p>You can download the email from Summit Internet to your favourite email software (like Microsoft Outlook), or view, edit and send emails from any online computer with Summit Internet Webmail service.</p>
@@ -177,7 +177,7 @@
         
              </div>     
     </div>
-    <div id="domains" class="col s12 m12 l10 offset-l1">
+    <div id="domains" class="col s12 m12 l12">
     <div class="hostingCard card">
             <p>It is important that every aspect of your website reflects professionalism, that is why corporations choose to register a Domain Name.</p>
 <p>The advantage of having a domain name is that your company gets to choose a simple site address, such as www.summit.net.au, rather than a long winded and complicated address. Therefore, a domain name is (a) more convenient and (b) easier to remember.</p>
@@ -232,7 +232,7 @@
         </table>  
         </div>     
     </div>
-    <div id="spamFilter" class="col s12 m12 l10 offset-l1"><div class="hostingCard card">
+    <div id="spamFilter" class="col s12 m12 l12"><div class="hostingCard card">
             <div class="divider"></div>
   <div class="section">
     <h5>Spam Filtering</h5>

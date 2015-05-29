@@ -1,5 +1,5 @@
 <div class="row">
-	<div class="card col s12 m12 l10 offset-l1" style="padding:0;">
+	<div class="card col s12 m12 l12" style="padding:0;">
 		<h2 id="contactUsSection" class="center scrollspy"> Contact Us</h2>
 		<div class="sales Info col s12 l6 card-panel red darken-2 white-text">	
 			<h3 class="center">Sales</h3>

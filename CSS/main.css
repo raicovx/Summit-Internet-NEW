@@ -10860,32 +10860,73 @@ blockquote {
   width: 100%;
   height: 100%;
   background-color: #a2080e;
+  overflow-y: auto;
+  position: relative;
 }
 
 html[data-useragent*='MSIE 10.0'] .ieCompat {
   display: block;
-  width: 100%;
-  height: 100%;
-  background-color: #a2080e;
-  color: #FFF;
   z-index: 999;
-  text-align: center;
+  color: #FFF;
+  font: 18px 'Roboto', sans-serif;
+  overflow-y: hidden;
+  position: fixed;
 }
-html[data-useragent*='MSIE 10.0'] .ieCompat img {
+html[data-useragent*='MSIE 10.0'] .ieCompat a img {
   width: 100px;
   height: auto;
 }
-html[data-useragent*='MSIE 10.0'] body {
-  width: 100%;
-  height: 100%;
-  overflow: hidden;
-}
-html[data-useragent*='MSIE 10.0'] .nav-wrapper {
-  display: none !important;
+html[data-useragent*='MSIE 10.0'] .row {
   visibility: hidden !important;
 }
 html[data-useragent*='MSIE 10.0'] .side-nav {
-  display: none !important;
+  visibility: hidden !important;
+}
+html[data-useragent*='MSIE 10.0'] .nav-wrapper {
+  visibility: hidden !important;
+}
+
+html[data-useragent*='MSIE 9.0'] .ieCompat {
+  display: block;
+  z-index: 999;
+  color: #FFF;
+  font: 18px 'Roboto', sans-serif;
+  overflow-y: hidden;
+  position: fixed;
+}
+html[data-useragent*='MSIE 9.0'] .ieCompat a img {
+  width: 100px;
+  height: auto;
+}
+html[data-useragent*='MSIE 9.0'] .row {
+  visibility: hidden !important;
+}
+html[data-useragent*='MSIE 9.0'] .side-nav {
+  visibility: hidden !important;
+}
+html[data-useragent*='MSIE 9.0'] .nav-wrapper {
+  visibility: hidden !important;
+}
+
+html[data-useragent*='MSIE 8.0'] .ieCompat {
+  display: block;
+  z-index: 999;
+  color: #FFF;
+  font: 18px 'Roboto', sans-serif;
+  overflow-y: hidden;
+  position: fixed;
+}
+html[data-useragent*='MSIE 8.0'] .ieCompat a img {
+  width: 100px;
+  height: auto;
+}
+html[data-useragent*='MSIE 8.0'] .row {
+  visibility: hidden !important;
+}
+html[data-useragent*='MSIE 8.0'] .side-nav {
+  visibility: hidden !important;
+}
+html[data-useragent*='MSIE 8.0'] .nav-wrapper {
   visibility: hidden !important;
 }
 
@@ -10931,6 +10972,21 @@ html[data-useragent*='Trident/7.0'] nav ul a {
     font-size: 25px;
     margin-right: 0;
   }
+}
+
+.socialIcons {
+  background: rgba(0, 0, 0, 0.5);
+  border-radius: 5px;
+  position: fixed;
+  bottom: 15px;
+  right: 15px;
+  width: 192px;
+  text-align: center;
+  line-height: 0.8rem;
+}
+.socialIcons img {
+  width: 60px;
+  height: auto;
 }
 
 th {
@@ -10984,9 +11040,19 @@ th {
     transition: font-size 0.5s ease, font-weight 0.6s ease, background-color 0.25s ease !important;
   }
 
-  /*---------------------slider----------------------------*/
+  .slides li .caption {
+    top: 5% !important;
+  }
   .slides li .caption h5 {
-    font-size: 1.1rem;
+    font-size: 1.5rem;
+  }
+
+  /*---------------------slider----------------------------*/
+  .slides li .caption {
+    top: 5% !important;
+  }
+  .slides li .caption h5 {
+    font-size: 1.5rem;
   }
 
   /*---------------------welcome----------------------------*/
@@ -11161,5 +11227,17 @@ th {
 @media (max-width: 1057px) {
   nav ul a {
     font-size: 0.8rem;
+  }
+}
+@media (max-width: 1328px) {
+  /*Social Icons */
+  .socialIcons {
+    width: 100%;
+    padding: 15px;
+    margin-left: 15px;
+    position: relative;
+  }
+  .socialIcons img {
+    width: 70px;
   }
 }

@@ -43,9 +43,18 @@ th{
              transition: font-size 0.5s ease, font-weight 0.6s ease, background-color 0.25s ease !important;
 
          }
+     .slides li .caption{
+         top:5%!important;
+       h5{
+         font-size:1.5rem;
+        }
+      }
       /*---------------------slider----------------------------*/
-    .slides li .caption h5{
-        font-size:1.1rem;
+    .slides li .caption{
+        top:5%!important;
+      h5{
+        font-size:1.5rem;
+      }
     }
 
 /*---------------------welcome----------------------------*/
@@ -196,6 +205,21 @@ th{
 @media (max-width: 1057px){
     nav ul a{
       font-size: 0.8rem;
-      
+
     }
-}
+
+
+    }
+    @media (max-width: 1328px){
+
+    /*Social Icons */
+    .socialIcons{
+      width:100%;
+      padding: 15px;
+      margin-left: 15px;
+      position:relative;
+        img{
+          width:70px;
+        }
+      }
+    }

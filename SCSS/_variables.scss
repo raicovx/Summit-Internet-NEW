@@ -4,7 +4,7 @@ $primary-color-darken-1: darken($primary-color, 5%);
  $contrasting-color:#263238 !important;
  $link-color: color($primary-color, "darken-1") !default;
 /*----- Drop Downs ------*/
-$dropdown-content-background:#263238; 
+$dropdown-content-background:rgba(255,255,255,0); 
 $active-dropdown-content-background:#37474f;
 $dropdown-font-size:1rem;
 $dropdown-content-padding: 1rem 0.8rem;

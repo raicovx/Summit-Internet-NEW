@@ -10,7 +10,7 @@ $(document).ready(function(){
      $(".button-collapse").sideNav();
     $('ul.tabs').tabs();
      $('.slider').slider({full_width: true});
-
+        $('.parallax').parallax();
     $('.fullScreen').on('click', function(){
         if(isFullScreen){
             $('.welcomeArea').css("marginTop", "");

@@ -10836,23 +10836,40 @@ blockquote {
   transition: color 0.2s;
 }
 
-.card-content img {
+.centerContainer {
   position: relative;
-  float: left;
-  margin-top: 25px;
-}
-.card-content .cardText {
-  position: relative;
-  float: left;
-  margin-left: 25px;
+  width: 100%;
+  padding: 0 0 0 10%;
 }
 
-.card .card-action {
-  position: relative;
-  height: 50px;
-  margin-top: 140px;
-  padding: 0;
-  width: 99%;
+.staffMember {
+  width: 29%;
+  margin: 3%;
+  float: left;
+  transition: background 0.5s;
+  padding-bottom: 25px;
+  border-radius: 5px;
+}
+.staffMember img {
+  width: 50%;
+  height: auto;
+  margin: 10% 20% 25px 20%;
+  border: 5px solid #FFF;
+}
+.staffMember a {
+  color: #FFF;
+  padding: 15px;
+  border-radius: 5px;
+  display: block;
+  width: 90%;
+  margin-left: 5%;
+}
+.staffMember a:hover {
+  background: rgba(0, 0, 0, 0.5);
+}
+
+.staffMember:hover {
+  background: rgba(162, 8, 14, 0.75);
 }
 
 .ieCompat {

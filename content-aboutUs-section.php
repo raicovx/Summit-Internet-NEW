@@ -1,25 +1,25 @@
 <div class="row">
 	<div class="col s12 m12 l12 parallax-container">
-    <div class="centerContainer">
+    <div id="aboutUs" class="centerContainer scrollspy">
     <div class="staffMember center">
         
-         <img src="images/billimage.jpg" alt="Bill Bowes" class="circle responsive-img hoverable"> 
+         <img src="Images/billimage2.jpg" alt="Bill Bowes" class="circle responsive-img hoverable"> 
            <h5 class="white-text">William Bowes</h5> 
         <a href="tel:0403046464">0403046464</a>
               <a href='mailto:wjb@summit.net.au' cm_dontconvertlink>wjb@summit.net.au</a>
         </div>
       <div class="staffMember center">
         
-         <img src="images/FB_IMG_1434760269381.jpg" alt="Leanne Carr" class="circle responsive-img hoverable"> 
+         <img src="Images/FB_IMG_1434760269381.jpg" alt="Leanne Carr" class="circle responsive-img hoverable"> 
            <h5 class="white-text">Leanne Carr</h5>      
         </div>
           <div class="staffMember center">
         
-         <img src="images/Megan_133.jpg" alt="Megan Bowes" class="circle responsive-img hoverable"> 
+         <img src="Images/Megan_133.jpg" alt="Megan Bowes" class="circle responsive-img hoverable"> 
            <h5 class="white-text">Megan Bowes</h5> 
         </div>
         </div>    
-      <div class="parallax"><img src="images/AdobeStock_81878656_WM.jpg"></div>
+      <div class="parallax"><img src="Images/AdobeStock_81878656_WM.jpg"></div>
 	<!--	<h3 id="aboutUs" class="scrollspy">About Us</h3>
 		<div class="card businessCard blue-grey darken-1 col s12 m12 l12">
 		<div class="card-content white-text">

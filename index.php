@@ -51,7 +51,7 @@
     </div><?php
     include('content-hosting-section.php');
     include('content-webDesign-section.php');
-    include('content-Support-section.php');
+    include('content-Support-Section.php');
     include('content-contactUs-section.php');
     include('content-members-voipUsage.php');
     include('content-aboutUs-section.php');

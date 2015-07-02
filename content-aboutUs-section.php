@@ -17,9 +17,12 @@
         
          <img src="Images/Megan_133.jpg" alt="Megan Bowes" class="circle responsive-img hoverable"> 
            <h5 class="white-text">Megan Bowes</h5> 
+              <a href="tel:0435510421">0435510421</a>
+              <a href='mailto:office@summit.net.au' cm_dontconvertlink>office@summit.net.au</a>
+              
         </div>
         </div>    
-      <div class="parallax"><img src="Images/AdobeStock_81878656_WM.jpg"></div>
+      <div class="parallax"><img src="/Images/summit.jpg"></div>
 	<!--	<h3 id="aboutUs" class="scrollspy">About Us</h3>
 		<div class="card businessCard blue-grey darken-1 col s12 m12 l12">
 		<div class="card-content white-text">

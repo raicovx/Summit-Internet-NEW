@@ -1,0 +1,36 @@
+.centerContainer{
+     position: relative;
+  width:100%;
+padding:0 0 0 10%;
+}
+.staffMember{
+    width:29%;
+    margin:3%;
+    float:left;
+    transition:background 0.5s;
+    padding-bottom:25px;
+     border-radius: 5px;
+    img{
+       width:50%;
+        height:auto;
+        margin:10% 20% 25px 20%;
+        border: 5px solid #FFF;
+    }   
+       
+    a{
+    color: #FFF;
+    padding: 15px;
+    border-radius: 5px;
+    display: block;
+    width:90%;
+    margin-left:5%;
+    }   
+    a:hover{
+        background: rgba(0,0,0,0.5);   
+    }
+}
+.staffMember:hover{
+        background:rgba(162, 8, 14, 0.75);
+      
+    }
+    

@@ -1,0 +1,20 @@
+.ieCompat{
+    display:block;  
+    z-index:999;
+    color:#FFF;
+    font: 18px 'Roboto', sans-serif;
+}
+.ieCompat a img{
+        width:100px;
+        height:auto;
+}
+.row{
+    visibility: hidden;
+}
+.side-nav{
+    visibility: hidden;
+}
+
+.nav-wrapper{
+    visibility: hidden;
+}

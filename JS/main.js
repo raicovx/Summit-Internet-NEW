@@ -9,9 +9,8 @@ $(document).ready(function(){
     $(".dropdown-button").dropdown();
      $(".button-collapse").sideNav();
     $('ul.tabs').tabs();
-     $('.parallax').parallax();
      $('.slider').slider({full_width: true});
-       
+
     $('.fullScreen').on('click', function(){
         if(isFullScreen){
             $('.welcomeArea').css("marginTop", "");

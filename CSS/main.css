@@ -11037,6 +11037,10 @@ th {
   margin-right: 0 !important;
 }
 
+iframe, iframe div, .fb-page div, .fb-page span{
+    width:100%!important; 
+}
+
 /*Media Queries*/
 @media only screen and (min-width: 0) and (max-width: 380px) {
   .container {
@@ -11235,6 +11239,8 @@ th {
   }
 
   /*---------------------welcome----------------------------*/
+    
+
   /*---------------------Members----------------------------*/
   .checkUsage {
     height: 400px;

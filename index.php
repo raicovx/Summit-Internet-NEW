@@ -5,6 +5,15 @@
 
 </head>
 <body class="grey lighten-2">
+    
+    <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
     <div class="ieCompat">
         <p> Sorry we Dont support your browser, please upgrade to at least internet explorer 11, <br><br>OR Download FireFox or Google Chrome:<br><br> <a href="https://www.mozilla.org/en-US/firefox/new/"><img src="Images/fflogo.png"></a> <a href="https://www.google.com/chrome/browser/desktop/index.html"><img src="Images/chrome_logo.png"></a></p>
     </div>
@@ -36,6 +45,7 @@
                  </div>
     <?php
     include('content-welcome-area.php');
+    include('content-social-feeds.php');
     include('content-internet-section.php');?>
 <div class="adverts center card col s12 m12 l10 offset-l1">
     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>

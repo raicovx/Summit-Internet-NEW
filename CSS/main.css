@@ -3125,7 +3125,7 @@ video.responsive-video {
 .parallax-container {
   position: relative;
   overflow: hidden;
-  height: 500px;
+  height: auto;
 }
 
 .parallax {
@@ -11037,10 +11037,29 @@ th {
   margin-right: 0 !important;
 }
 
-.fb-page, 
-.fb-page span, 
-.fb-page span iframe[style] { 
-    width: 100% !important; 
+.fb-page, twitter-timeline{
+  position: relative;
+    float:left;
+   margin-bottom:5px;
+}
+.twitter-timeline .timeline-footer{
+   background:#e0e0e0!important;
+}
+::-webkit-scrollbar{
+     background:none;  
+}
+::-webkit-scrollbar-thumb {
+  background-color: darkgrey;
+  outline: 1px solid slategrey;
+}
+.fb_iframe_widget span{
+    width:100%!important;
+}
+.fb_iframe_widget span iframe{
+    width:100%!important;
+}
+.aboutUsRow{
+    height: auto;   
 }
 /*Media Queries*/
 @media only screen and (min-width: 0) and (max-width: 380px) {
@@ -11101,10 +11120,13 @@ th {
   }
 
   /*---------------------About Us----------------------------*/
-  .businessCard {
-    height: 370px;
+  .parallax{
+        width:200%!important;
+        left:-50%!important;
   }
-
+    .parallax img{
+        min-width:200%!important;   
+    }
   /*---------------------Internet & Hosting----------------------------*/
   .tabs {
     width: 160% !important;

@@ -1,19 +1,19 @@
-<div class="row">
+<div class="row aboutUsRow">
 	<div class="col s12 m12 l12 parallax-container">
-    <div id="aboutUs" class="centerContainer scrollspy">
-    <div class="staffMember center">
+    <div id="aboutUs row" class="centerContainer col s12 m12 l12 scrollspy">
+    <div class="staffMember col s12 m4 l4 center">
         
          <img src="Images/billimage2.jpg" alt="Bill Bowes" class="circle responsive-img hoverable"> 
            <h5 class="white-text">William Bowes</h5> 
         <a href="tel:0403046464">0403046464</a>
               <a href='mailto:wjb@summit.net.au' cm_dontconvertlink>wjb@summit.net.au</a>
         </div>
-      <div class="staffMember center">
+      <div class="staffMember col s12 m4 l4 center">
         
          <img src="Images/FB_IMG_1434760269381.jpg" alt="Leanne Carr" class="circle responsive-img hoverable"> 
            <h5 class="white-text">Leanne Carr</h5>      
         </div>
-          <div class="staffMember center">
+          <div class="staffMember col s12 m4 l4 center">
         
          <img src="Images/Megan_133.jpg" alt="Megan Bowes" class="circle responsive-img hoverable"> 
            <h5 class="white-text">Megan Bowes</h5> 
